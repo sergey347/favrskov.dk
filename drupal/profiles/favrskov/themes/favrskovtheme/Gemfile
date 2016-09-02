@@ -1,7 +1,7 @@
-# A sample Gemfile
-source "https://rubygems.org"
+#
+# Favrskov gems to compile styles.
+#
 
-# gem "rails"
 gem 'compass', '~>0.12.2'
 gem 'susy', '1.0.9'
-
+gem 'sass', '3.2.19'
